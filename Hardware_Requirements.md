@@ -1,0 +1,13 @@
+- Raspberry Pi Pico
+- USB cables for the Picos
+- Breadboard
+- colorful LED's (red, yellow, green)
+- Resistors
+- Jumper cables
+- little switches
+- piezo buzzer
+- 3V Battery -- and a case / battery-holder
+
+- additional components (tbd)
+	- 7 segment Display
+	- ...
