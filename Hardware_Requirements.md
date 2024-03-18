@@ -1,4 +1,4 @@
-- Raspberry Pi Pico
+- Raspberry Pi Pico (RP2040)
 - USB cables for the Picos
 - Breadboard
 - colorful LED's (red, yellow, green)
