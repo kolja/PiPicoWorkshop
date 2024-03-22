@@ -10,7 +10,7 @@ Nothing is set in stone.
 	- Who are you?
 		- have you programmed before?
 		- What programming languages have you heard of?
-- The Raspberry Pi Pico
+- The Raspberry Pi Pico [[pico-pinout.svg]]
 	- stick it in the breadboard and connect it to the computer
 	- open our IDE Thonny
 - Our first Programming Task:
@@ -22,6 +22,8 @@ Nothing is set in stone.
 		- how to use the REPL
 - Our second programming task:
 	- the Raspi has a builtin LED (what is an LED?)
+		- What is a diode [[diode.png]]
+		- What is a LED [[leuchtdiode.png]]
 	- let's get it to blink
 
 # day 2
@@ -29,6 +31,9 @@ Nothing is set in stone.
 - Let's get an external LED to blink
 	- Electronic circuits, + and - , how the Breadboard is wired up
 	- LED's need a limiting resistor. What gives?
+	- How to calculate the Ohm value for the limiting resistor
+	- determining the resistor by looking at the colourful stripes [[farbcodes.png]]
+	- measuring the resistance with a multimeter
 - Start working on a traffic light
 
 # day 3
