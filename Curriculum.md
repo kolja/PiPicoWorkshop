@@ -12,7 +12,7 @@ Nothing is set in stone.
 		- What programming languages have you heard of?
 - The Raspberry Pi Pico [[pico-pinout.svg]]
 	- stick it in the breadboard and connect it to the computer
-	- open our IDE Thonny
+	- install and open our IDE Thonny
 - Our first Programming Task:
 	- You want to build a swimming pool in Minecraft, but you don't know how many blocks of marble you'll need
 	- (Micro)Python programming basics: 
@@ -34,12 +34,21 @@ Nothing is set in stone.
 	- How to calculate the Ohm value for the limiting resistor
 	- determining the resistor by looking at the colourful stripes [[farbcodes.png]]
 	- measuring the resistance with a multimeter
-- Start working on a traffic light
+- Create traffic light
+- Plan Labyrinth
+    - Draw it on paper
+    - cut it out and glue it to a cardboard. Add brass pins
+
 
 # day 3
 
-- until noon: soldering 
+- until noon: soldering wires to the pins on the Labyrinth
+- Afternoon:
+    - connect the Labyrinth to the Raspi
+    - experiment with Piezo buzzer
 
 # day 4
 
-- everybody finishes their project 
+- debugging
+- finishing touches
+- show and tell
