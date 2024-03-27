@@ -36,7 +36,7 @@ Some explanation on while loops and the sleep function was given.
 
 ## day three
 
-rough plan:
-- Introduce students to: buzzers, buttons, seven segment displays (and maybe potentiometers)
-- soldering
-- start working on final project
+Today, it was planned to introduce soldering to the students, however there was a change in our room allocation: The Scratch workshop was moved in with us and the remaining space would have been a bit cramped for soldering.
+Instead, I introduced some more electronics components to the students: buzzers, buttons and seven segment displays.
+The participants are starting to develop their own ideas for a final project.
+We have several "Traffic light" projects in the making; One student is making a counter with the seven segment display; And one is working on a morse-encoder using the buzzer.

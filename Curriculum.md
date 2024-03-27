@@ -1,6 +1,4 @@
-This is a work in progress.
-I am actively adding new content to this curriculum at the moment.
-Nothing is set in stone.
+These are my plans for the 4-day workshop At ArtEck Berlin.
 
 # day 1
 
@@ -38,7 +36,6 @@ Nothing is set in stone.
 - Plan Labyrinth
     - Draw it on paper
     - cut it out and glue it to a cardboard. Add brass pins
-
 
 # day 3
 
