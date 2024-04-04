@@ -40,3 +40,12 @@ Today, it was planned to introduce soldering to the students, however there was 
 Instead, I introduced some more electronics components to the students: buzzers, buttons and seven segment displays.
 The participants are starting to develop their own ideas for a final project.
 We have several "Traffic light" projects in the making; One student is making a counter with the seven segment display; And one is working on a morse-encoder using the buzzer.
+
+## day four
+
+The first half of the day was spent finalizing the projects. Most students were on track with their projects, but some needed a bit of help with the coding. One student had almost given up, because he had run into trouble syncing the Pico with Thonny. We managed to set up a little project blinking random LEDs to make sure he had something to present like everyone else. Only one of the stundents had decided to use the cardboard and markers to create a frontend to his electronics contraption. He had a working traffic light and included it into a city map/maze.
+
+After lunch we had a presentation of all the projects. Most just showed off their machines and said a few words on how they had written the code. One of the students got a bit carried away and explained the whole process of how he had tackled the problem of encoding numbers for the two seven segment displays that he was using simultaneously. It was a bit too much for the audience.
+
+We conluded with a quiz and and took a group photo. Some participants asked if they could keep the Pico, which I allowed under the condition that they would continue to work on their projects at home.
+
