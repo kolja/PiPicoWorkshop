@@ -1,4 +1,4 @@
-# Log of PiPico Workshop
+# PiPico Workshop Progress Report
 
 ## day one
 
