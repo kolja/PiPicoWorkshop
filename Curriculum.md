@@ -1,4 +1,4 @@
-These are my plans for the 4-day workshop At ArtEck Berlin.
+These are my plans for a 3 to 4-day workshop for kids aged 12 to 16.
 
 # day 1
 
@@ -8,12 +8,14 @@ These are my plans for the 4-day workshop At ArtEck Berlin.
 	- Who are you?
 		- have you programmed before?
 		- What programming languages have you heard of?
-- The Raspberry Pi Pico [[pico-pinout.svg]]
+- The Microcontroller:
+    - The Raspberry Pi Pico [[./img/pico-pinout.svg]]
+    - The Arduino Nano [[./img/nano-pinout.png]]
 	- stick it in the breadboard and connect it to the computer
 	- install and open our IDE Thonny
 - Our first Programming Task:
 	- You want to build a swimming pool in Minecraft, but you don't know how many blocks of marble you'll need
-	- (Micro)Python programming basics: 
+	- (Micro)Python programming basics:
 		- what are variables?
 		- what are functions?
 		- some info about nesting / indentation
